@@ -6,7 +6,18 @@ help athletes correct posture and prevent injuries.
 
 🏆 Winner — Best Use of Technology, Hack NC State
 
-🎥 Demo
 
+Features
+
+Real-time pose skeleton overlay
+Angle measurement and on-screen annotations
+Basic color-coded feedback for form correctness
+Lightweight visualization pipeline using OpenCV
+
+Tech Stack
+
+Python, OpenCV, Mediapipe, NumPy
+
+🎥 Demo
 
 Here's a short video (~2 min) demonstrating the working prototype: https://www.youtube.com/watch?v=Kn1Sj-5Ae3I
